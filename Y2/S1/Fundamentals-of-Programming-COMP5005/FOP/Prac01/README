@@ -1,0 +1,19 @@
+## Synopsis
+Practical 1 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README – readme file for Practical 1
+num_convert.py - Read in number and convert to int and float
+num_for.py - Read in ten numbers and give sum of numbers
+num_while.py - Read in a list of numbers (zero to exit) and give the sum of the numbers
+growth.py - simulation of unconstrained growth
+which.py - asks questions to find your Python
+bruces.py - let's call everyone "Bruce", to avoid confusion
+bridge2.py - a scene from The Holy Grail, re-coded
+bridge.py - a scene from The Holy Grail
+
+## Dependencies
+none
+
+## Version information
+<today’s date> - initial version of Practical 0 programs
