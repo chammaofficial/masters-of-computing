@@ -12,3 +12,4 @@ class Post(models.Model):
 
     def is_pre_covid_post(self):
         return self.publish_date <= datetime.date(2020,3,10)
+
