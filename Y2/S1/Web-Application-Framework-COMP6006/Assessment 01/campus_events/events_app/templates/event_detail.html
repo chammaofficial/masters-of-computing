@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="card mb-3">
+    <h3 class="card-header">Event: {{ event.title }}</h3>
+    <div class="card-body">
+        <p class="card-text">{{ event.description }}</p>
+    </div>
+     <ul class="list-group list-group-flush">
+         <li class="list-group-item">Category: <a href="{% url 'category_events' category_id=event.category.id %}">{{ event.category.name }}</a></li>
+         <li class="list-group-item">Location: {{ event.location }}</li>
+         <li class="list-group-item">Start Time: {{ event.start_datetime }}</li>
+         <li class="list-group-item">End Time: {{ event.end_datetime }}</li>
+         <li class="list-group-item">Contact Name: {{ event.contact_name }}</li>
+         <li class="list-group-item">Contact Email: <a href="mailto:{{ event.contact_email }}">{{ event.contact_email }}</a></li>
+    </ul>
+    <div class="card-footer text-muted">Posted on: {{ event.approved_at }}</div>
+</div>
+
+
+{% endblock %}
+
