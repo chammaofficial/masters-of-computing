@@ -1,0 +1,22 @@
+## Synopsis
+Practical 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README – readme file for Practical 3
+growthplot.py - simulation of unconstrained growth using lists to store data to plot
+numbersarray.py - Read ten numbers give sum, min, max & mean
+growtharray.py - simulation of unconstrained growth using arrays to store data to plot
+growthsubplot.py - simulation of unconstrained growth using arrays to store data to subplots
+numbersbar.py - Read ten numbers give sum, min, max & mean and plot a bar chart
+dosage.py - simulates the amount of aspirin in the system
+repeatdosage.py - Simulation of repeated asprin dosages
+rainbows.py - Simulation of rainbow with arrays and matplotlib
+venv - Python Virtual Environment
+
+## Dependencies
+matplotlib - for ploting purposes
+numpy - for arrays
+venv - Python venv has used for virtual environment
+
+## Version information
+2026 Mar 27 - initial version of Practical 3 programs
