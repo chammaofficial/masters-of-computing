@@ -1,0 +1,150 @@
+    1  ping google.com
+    2  df -h
+    3  git clone https://github.com/chammaofficial/master-of-computing.git
+    4  python
+    5  pwd
+    6  mkdir PracTest1
+    7  cd PracTest1/
+    8  mkdir if
+    9  mkdir for
+   10  mkdir while
+   11  tree
+   12  mkdir control_structures
+   13  ls
+   14  mv for if while ./control_structures/
+   15  ls
+   16  tree
+   17  history > hist1.txt
+   18  ls
+   19  cat hist1.txt 
+   20  cd control_structures/if/
+   21  mkdir if
+   22  mkdir if_elif
+   23  mkdir if_elif_else
+   24  mkdir if_else
+   25  cd ..
+   26  ls
+   27  mkdir loops
+   28  mv for ./loops/
+   29  mv while ./loops/
+   30  cd toops
+   31  cd loops
+   32  ls
+   33  cd for
+   34  mkdir for_range
+   35  mkdir for_each
+   36  cd ..
+   37  cd ../../
+   38  ls
+   39  tree
+   40  history > hist2.txt 
+   41  cd control_structures/loops/for/for_range/
+   42  vim swing.py
+   43  python3 swing.py 
+   44  vim swing.py
+   45  python3 swing.py 
+   46  vim swing.py
+   47  python3 swing.py 
+   48  clear
+   49  vim swing.py 
+   50  python3 swing.py 
+   51  vim swing.py 
+   52  python3 swing.py 
+   53  vim swing.py 
+   54  python3 swing.py 
+   55  vim swing.py 
+   56  python3 swing.py 
+   57  vim swing.py 
+   58  python3 swing.py 
+   59  vim swing.py 
+   60  python3 swing.py 
+   61  vim swing.py 
+   62  python3 swing.py 
+   63  vim swing.py 
+   64  python3 swing.py 
+   65  vim swing.py 
+   66  python3 swing.py 
+   67  vim swing.py 
+   68  python3 swing.py 
+   69  vim swing.py 
+   70  python3 swing.py 
+   71  vim swing.py 
+   72  python3 swing.py 
+   73  vim swing.py 
+   74  python3 swing.py 
+   75  vim swing.py 
+   76  python3 swing.py 
+   77  vim swing.py 
+   78  python3 swing.py 
+   79  clear
+   80  vim swing.py 
+   81  python3 swing.py 
+   82  vim swing.py 
+   83  python3 swing.py 
+   84  vim swing.py 
+   85  python3 swing.py 
+   86  vim swing.py 
+   87  python3 swing.py 
+   88  vim swing.py 
+   89  python3 swing.py 
+   90  vim swing.py 
+   91  python3 swing.py 
+   92  vim swing.py 
+   93  python3 swing.py 
+   94  vim swing.py 
+   95  python3 swing.py 
+   96  vim swing.py 
+   97  python3 swing.py 
+   98  vim swing.py 
+   99  python3 swing.py 
+  100  vim swing.py 
+  101  python3 swing.py 
+  102  vim swing.py 
+  103  python3 swing.py 
+  104  vim swing.py 
+  105  python3 swing.py 
+  106  vim swing.py 
+  107  python3 swing.py 
+  108  vim swing.py 
+  109  mv swing.py swing.py.bak
+  110  vim swing.py 
+  111  ls
+  112  rm swing.py
+  113  ls
+  114  mv swing.py.bak swing.py
+  115  cp swing.py swing.py.bak
+  116  ls
+  117  vim swing.py
+  118  python3 swing.py 
+  119  vim swing.py
+  120  python3 swing.py 
+  121  vim swing.py
+  122  python3 swing.py 
+  123  vim swing.py
+  124  python3 swing.py 
+  125  vim swing.py
+  126  python3 swing.py 
+  127  vim swing.py
+  128  python3 swing.py 
+  129  vim swing.py
+  130  python3 swing.py 
+  131  vim swing.py
+  132  python3 swing.py 
+  133  vim swing.py
+  134  python3 swing.py 
+  135  vim swing.py
+  136  python3 swing.py 
+  137  vim swing.py
+  138  python3 swing.py 
+  139  vim swing.py
+  140  python3 swing.py 
+  141  vim swing.py
+  142  python3 swing.py 
+  143  vim swing.py
+  144  python3 swing.py 
+  145  cd ../../../
+  146  cd ../
+  147  ls
+  148  vim README
+  149  ls
+  150  history > hist3.txt

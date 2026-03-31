@@ -1,0 +1,17 @@
+    1  ping google.com
+    2  df -h
+    3  git clone https://github.com/chammaofficial/master-of-computing.git
+    4  python
+    5  pwd
+    6  mkdir PracTest1
+    7  cd PracTest1/
+    8  mkdir if
+    9  mkdir for
+   10  mkdir while
+   11  tree
+   12  mkdir control_structures
+   13  ls
+   14  mv for if while ./control_structures/
+   15  ls
+   16  tree
+   17  history > hist1.txt

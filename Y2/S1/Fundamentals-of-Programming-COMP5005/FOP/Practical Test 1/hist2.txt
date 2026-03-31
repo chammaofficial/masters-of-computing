@@ -1,0 +1,40 @@
+    1  ping google.com
+    2  df -h
+    3  git clone https://github.com/chammaofficial/master-of-computing.git
+    4  python
+    5  pwd
+    6  mkdir PracTest1
+    7  cd PracTest1/
+    8  mkdir if
+    9  mkdir for
+   10  mkdir while
+   11  tree
+   12  mkdir control_structures
+   13  ls
+   14  mv for if while ./control_structures/
+   15  ls
+   16  tree
+   17  history > hist1.txt
+   18  ls
+   19  cat hist1.txt 
+   20  cd control_structures/if/
+   21  mkdir if
+   22  mkdir if_elif
+   23  mkdir if_elif_else
+   24  mkdir if_else
+   25  cd ..
+   26  ls
+   27  mkdir loops
+   28  mv for ./loops/
+   29  mv while ./loops/
+   30  cd toops
+   31  cd loops
+   32  ls
+   33  cd for
+   34  mkdir for_range
+   35  mkdir for_each
+   36  cd ..
+   37  cd ../../
+   38  ls
+   39  tree
+   40  history > hist2.txt 
